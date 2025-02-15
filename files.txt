@@ -1,3 +1,30 @@
+commit ace50535092fa008e55cf0fdccce30d86ce55e03
+Author: Dee <dee.covan@gmail.com>
+Date:   Fri Feb 14 22:04:32 2025 +0200
+
+    up
+
+A	0214-2040/2025-02-14 19_23_13-Greenshot.png
+A	0214-2040/2025-02-14 20_38_30-Greenshot.png
+M	port WestGate.MD
+
+commit 30855c1d84ac05619b3f382b3ee1a66c19311cb4
+Author: Dee <dee.covan@gmail.com>
+Date:   Fri Feb 14 18:29:27 2025 +0200
+
+    merged theirs
+
+A	port WestGate.MD
+D	port WestGate.txt
+
+commit f80d3a267fef3bc007f2f79cf60581cad0ce4ff6
+Author: Dee <dee.covan@gmail.com>
+Date:   Fri Feb 14 18:18:55 2025 +0200
+
+    files.txt Fri Feb 14 18:18:09
+
+A	files.txt
+
 commit 6fa3a3582adea55c8da4de9eb65aeaab7243a290
 Author: Dee <dee.covan@gmail.com>
 Date:   Fri Feb 14 18:18:09 2025 +0200
