@@ -1,3 +1,49 @@
+commit 0351b8ec0b9c05517adfbfb376b3cdbc0368f361
+Author: Dee <dee.covan@gmail.com>
+Date:   Sat Feb 22 14:46:16 2025 +0200
+
+    0222-base-plans
+
+A	0222-base-plans/2025-02-22 09_03_04-War.png
+A	0222-base-plans/2025-02-22 09_33_48-Greenshot.png
+A	0222-base-plans/2025-02-22 09_34_09-Greenshot.png
+A	0222-base-plans/2025-02-22 09_34_26-Greenshot.png
+A	0222-base-plans/2025-02-22 09_34_40-Greenshot.png
+A	0222-base-plans/2025-02-22 10_10_27-Greenshot.png
+A	0222-base-plans/2025-02-22 10_11_16-Greenshot.png
+A	0222-base-plans/2025-02-22 10_12_12-Greenshot.png
+A	0222-base-plans/2025-02-22 10_56_12-Greenshot.png
+
+commit 43ad4812727b6bb13882a442a62046daef119495
+Author: Dee <dee.covan@gmail.com>
+Date:   Tue Feb 18 15:53:08 2025 +0200
+
+    0218-somic-build
+
+A	0218-somic-build/2025-02-18 15_46_40-Greenshot.png
+A	0218-somic-build/2025-02-18 15_46_55-Greenshot.png
+A	0218-somic-build/2025-02-18 15_47_13-Greenshot.png
+A	0218-somic-build/2025-02-18 15_47_24-Greenshot.png
+A	0218-somic-build/2025-02-18 15_47_33-Greenshot.png
+A	0218-somic-build/2025-02-18 15_48_33-Greenshot.png
+A	0218-somic-build/2025-02-18 15_49_53-Greenshot.png
+
+commit 04d14c582e5f739353973ab286d02e2777bdd811
+Author: Dee <dee.covan@gmail.com>
+Date:   Mon Feb 17 05:37:39 2025 +0200
+
+    Base A
+
+A	0216-base-a/2025-02-16 16_54_09-Greenshot.png
+
+commit 28c88165a73d5973311d403b6080ec21225c9416
+Author: Dee <dee.covan@gmail.com>
+Date:   Sun Feb 16 07:35:45 2025 +0200
+
+    files.txt
+
+M	files.txt
+
 commit 3180ba5a2f1a5db8cf15e5ba009dd2bfcf893e58
 Author: Dee <dee.covan@gmail.com>
 Date:   Sun Feb 16 07:31:37 2025 +0200
