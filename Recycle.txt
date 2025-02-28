@@ -1,0 +1,59 @@
+Recycler-based PCM production
+|                            ::road:::
+X===rails====================##====\::
+| |--CR--|--|--MF--|--PS--|--Lt--| |::
+|o|------|Rt|------|------|------|o|::
+| |--CR--||||--MF--|--Mt--|--MR--| |::
+X===rails=##==========##=====##====/::
+|  (crane)::::::::::::::::::::::::::::   
+
+--> Coal Refinery (2x) _4x3_
+200 x Coal
+3 MW of power
+<-- 04:30
+180 x Coke
+
+--- Resource Transfer _3x2_
+
+--> Materials Factory (Smelter)	_2x3_
+15 x Scrap
+25 x Coke
+4 MW of power 
+<-- 00:25
+3 x Construction Materials
+
+--> Materials Factory (Assembly Bay) _2x3_
+25 x Scrap 
+2 MW of power
+<-- 00:25
+1 x Metal Beams 
+1 x Construction Materials
+
+--- Material Transfer _3x2_
+
+--> Metalworks Factory (Recycler) _3x2_
+15 x Construction Materials
+1 x Metal Beams
+10L x Heavy Oil
+8 MW of power	
+<-- 01:30
+1 x Processed Construction Materials
+
+--> Power Station (Sulfuric Reactor)
+50L x Heavy Oil
+<-- 02:00
+5 x Sulfur 
+16 MW of power
+
+--- Free space _3x2_
+
+--- Liquid Transfer _3x2_
+
+Summary (per hour)
+-> 2000 Heavy Oil -> 16 MW [18MW] <NEED up to 20MW>
+-> 6000 Coal -> 5000 Coke (1hr 6MW)
+-> 3000 Scrap + Coke -> 450 CMs (1hr 4MW)
+-> 3000 Scrap -> 120 Beams (1hr 2MW) [*0.25] (Run first)
+->> + 30 Beams + 450 CMs ->> 30 PCMs (1hr 8MW)[*0.55] (Run second)
+
+<<< 1 PCM in 1.5 mins [*0.75] (30 per hour)
